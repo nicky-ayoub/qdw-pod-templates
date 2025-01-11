@@ -1,3 +1,5 @@
+# ABSTRACT: a really awesome library
+
 =head1 NAME
 
  - 
