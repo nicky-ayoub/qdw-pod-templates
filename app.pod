@@ -1,3 +1,4 @@
+# ABSTRACT: a really awesome application
 =head1 NAME
 
  - 
